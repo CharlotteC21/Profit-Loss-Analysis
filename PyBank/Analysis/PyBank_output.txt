@@ -1,0 +1,10 @@
+PyBank Results:
+----------------------------------------------------
+Financial Analysis
+----------------------------------------------------
+Months:, 86
+Total: $37514694
+Average Change: $412890
+Greatest Increase in Profit is: Feb-2012 $1170593
+Greatest Decrease in Profit is: Sep-2013 $-1196225
+----------------------------------------------------
